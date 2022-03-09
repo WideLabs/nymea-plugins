@@ -74,6 +74,7 @@ PLUGIN_DIRS = \
     udpcommander        \
     unifi               \
     usbrelay            \
+    usbrly82            \
     wakeonlan           \
     wemo                \
     ws2812fx            \
