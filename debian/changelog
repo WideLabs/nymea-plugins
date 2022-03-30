@@ -1,3 +1,23 @@
+nymea-plugins (1.0.1) jammy; urgency=medium
+
+  [ Simon Stürz ]
+  * WIP: Add webos support for the LG smarttv plugin
+
+  [ Jenkins ]
+  * WIP: New plugin - smartcar
+
+  [ Michael Zanetti ]
+  * WIP: New Plugin: nymea owlets
+
+  [ Jenkins ]
+  * New plugin - Daikin Airco
+
+  [ Michael Zanetti ]
+  * New Plugin: Meross (via Meross cloud)
+  * MecElectronics: Return proper error code on wrong authentication
+
+ -- jenkins <developer@nymea.io>  Wed, 30 Mar 2022 12:56:23 +0200
+
 nymea-plugins (1.0.0) xenial; urgency=medium
 
   [ Simon Stürz ]
